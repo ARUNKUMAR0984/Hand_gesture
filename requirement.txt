@@ -1,7 +1,7 @@
 fastapi
 uvicorn
-joblib
-mediapipe
 opencv-python
-numpy
-scikit-learn==1.2.2
+mediapipe
+scikit-learn
+joblib
+python-multipart
